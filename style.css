@@ -9,7 +9,7 @@ body{
     line-height: 1.6;
 }
 header{
-    background-color: darkslategray;
+    background-color: purple;
     color: white;
     padding: 1rem;
 }
@@ -35,7 +35,7 @@ nav{
 }
 footer{
     color: white;
-    background-color: darkslategray;
+    background-color: purple;
     text-align: center;
     padding: 1rem;
     position: fixed;
@@ -43,11 +43,12 @@ footer{
     width: 100%;
 }
 .indexdiv{
-    border: 2px solid black;
+    border: 2px solid purple;
     border-radius: 30px;
     text-align: center;
-    background-color: #d8d7d7;
+    background-color: magenta;
     display: grid;
+    color: pink;
     grid-template-areas: "h" "s" "r";
 }
 .indexsectionheading{
