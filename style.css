@@ -1,0 +1,214 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(cyberpunk.png);
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+}
+header{
+    background-color: rgb(65, 8, 65, 0.5);
+    color: white;
+    padding: 1rem;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.logo{
+    font-size: 1rem;
+    font-weight: bold;
+}
+.nav-links{
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+}
+.nav-links a{
+    color: white;
+    text-decoration: none;
+}
+footer{
+    color: white;
+    background-color: rgb(65, 8, 65, 0.5);
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    height: 80px;
+    width: 100%;
+}
+.indexdiv{
+    border: 2px solid white;
+    border-radius: 30px;
+    text-align: center;
+    background-color: rgb(65, 8, 65, 0.7);
+    display: flex;
+    flex-direction: column;
+}
+.indexsectionheading{
+    text-align: center;
+    font-size: 2rem;
+}
+.indexsectiondivs{
+    text-align: center;
+    color: white;
+    justify-content: space-between;
+}
+.indexdiv li{
+    text-decoration: underline;
+}
+.indexdiv .resume{
+    grid-area: r;
+}
+.indexdiv .hobbies{
+    grid-area: h;
+}
+.indexdiv .projects{
+    grid-area: s;
+}
+
+.contactleft{
+    border-radius: 40px;
+    border: 3px solid black;
+    width: 30%;
+    margin-top: 100px;
+    height: 200px;
+    margin-left: 250px;
+    text-align: center;
+    background-color: rgb(250, 20, 143, 0.8);
+    padding: 20px;
+}
+.contactright{
+    margin-top: -200px;
+    background-color: rgb(236, 112, 178, 0.8);
+    text-align: center;
+    margin-left: 850px;
+    border-radius: 40px;
+    border: 3px solid black;
+    width: 30%;
+    height: 420px;
+}
+input{
+    padding: 10px;
+    border: 2px solid lightblue;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+}
+.resumebody{
+    text-align: center;
+    display: grid;
+    grid-template-areas: "o t";
+}
+.resumediv1{
+    display: grid;
+    grid-area: o;
+    background-color: rgb(163, 219, 238, 0.8);
+    width: 450px;
+    margin-left: 30px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.resumediv1 li{
+    list-style-type: none;
+}
+.resumediv1 h2{
+    border-bottom: 2px solid white;
+}
+.resumediv2{
+    display: grid;
+    background-color: rgb(233, 232, 232, 0.8);
+    margin-right: 50px;
+    width:800px;
+    border-radius: 40px;
+    padding: 10px;
+    grid-area: t;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+h1{
+    color: white;
+}
+.indexlinkwhatever{
+    color: white;
+}
+.project1{
+    background-color:  rgb(4, 140, 140, 0.8);
+    width: 500px;
+    border-radius: 20px;
+    height: 370px;
+    margin-left: 20px;
+}
+.project1 p{
+    margin-left: 20px;
+}
+.project1 h4{
+    margin-left: 20px;
+}
+.project1 a{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.project1image{
+    border-radius: 20px;
+}
+.project1image2{
+    border-radius: 20px;
+}
+.project1-2{
+    background-color: rgb(4, 140, 140, 0.8);
+    width: 300px;
+    border-radius: 20px;
+    height: 320px;
+    margin-left: 600px;
+    margin-top: -370px;
+}
+.project1-2 a{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.project1-2 p{
+    margin-left: 20px;
+}
+.project1-2 h4{
+    margin-left: 20px;
+}
+.project1image3{
+    border-radius: 20px;
+}
+.project1-3{
+    background-color: rgb(4, 140, 140, 0.8);
+    width: 300px;
+    border-radius: 20px;
+    height: 320px;
+    margin-left: 1000px;
+    margin-top: -320px;
+}
+.project1-3 a{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.project1-3 p{
+    margin-left: 20px;
+}
+.project1-3 h4{
+    margin-left: 20px;
+}
