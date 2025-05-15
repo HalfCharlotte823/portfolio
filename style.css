@@ -5,7 +5,7 @@
 }
 body{
     background-image: url(cyberpunk.png);
-    font-family: 'Times New Roman', Times, serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     line-height: 1.6;
 }
 header{
@@ -40,7 +40,7 @@ footer{
     padding: 1rem;
     position: fixed;
     bottom: 0;
-    height: 80px;
+    height: 60px;
     width: 100%;
 }
 .indexdiv{
@@ -216,4 +216,271 @@ h1{
     color: black;
     background-color: rgb(163, 219, 238, 0);
     text-decoration: underline;
+}
+.project1-4{
+    background-color: rgb(236, 112, 178, 0.8);
+    width: 300px;
+    border-radius: 20px;
+    height: 320px;
+    margin-left: 1000px;
+    margin-top: 30px;
+}
+.project1-4 a{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.project1-4 p{
+    margin-left: 20px;
+}
+.project1-4 h4{
+    margin-left: 20px;
+}
+.project1image4{
+    border-radius: 20px;
+}
+.project1-5{
+    background-color: rgb(236, 112, 178, 0.8);
+    width: 300px;
+    border-radius: 20px;
+    height: 320px;
+    margin-left: 600px;
+    margin-top: -320px;
+}
+.project1-5 a{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.project1-5 p{
+    margin-left: 20px;
+}
+.project1-5 h4{
+    margin-left: 20px;
+}
+.project1image5{
+    border-radius: 20px;
+}
+.filler{
+    opacity: 0.0;
+}
+.project1-6{
+    background-color: rgb(236, 112, 178, 0.8);
+    width: 300px;
+    border-radius: 20px;
+    height: 320px;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.project1-6 a{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.project1-6 p{
+    margin-left: 20px;
+}
+.project1-6 h4{
+    margin-left: 20px;
+}
+.project1image6{
+    border-radius: 20px;
+}
+.project1-7{
+    background-color: rgb(236, 112, 178, 0.8);
+    width: 300px;
+    border-radius: 20px;
+    height: 320px;
+    margin-left: 500px;
+    margin-top: -320px;
+}
+.project1-7 a{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.project1-7 p{
+    margin-left: 20px;
+}
+.project1-7 h4{
+    margin-left: 20px;
+}
+.project1image7{
+    border-radius: 20px;
+}
+.project1-8{
+    background-color: rgb(236, 112, 178, 0.8);
+    width: 300px;
+    border-radius: 20px;
+    height: 320px;
+    margin-left: 950px;
+    margin-top: -320px;
+}
+.project1-8 a{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.project1-8 p{
+    margin-left: 20px;
+}
+.project1-8 h4{
+    margin-left: 20px;
+}
+.project1image8{
+    border-radius: 20px;
+}
+.project1-9{
+    background-color: rgb(236, 112, 178, 0.8);
+    width: 300px;
+    border-radius: 20px;
+    height: 320px;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.project1-9 a{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.project1-9 p{
+    margin-left: 20px;
+}
+.project1-9 h4{
+    margin-left: 20px;
+}
+.project1image9{
+    border-radius: 20px;
+}
+.project1-10{
+    background-color: rgb(236, 112, 178, 0.8);
+    width: 300px;
+    border-radius: 20px;
+    height: 320px;
+    margin-left: 500px;
+    margin-top: -320px;
+}
+.project1-10 a{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.project1-10 p{
+    margin-left: 20px;
+}
+.project1-10 h4{
+    margin-left: 20px;
+}
+.project1image10{
+    border-radius: 20px;
+}
+.project1-11{
+    background-color: rgb(236, 112, 178, 0.8);
+    width: 300px;
+    border-radius: 20px;
+    height: 320px;
+    margin-left: 950px;
+    margin-top: -320px;
+}
+.project1-11 a{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.project1-11 p{
+    margin-left: 20px;
+}
+.project1-11 h4{
+    margin-left: 20px;
+}
+.project1image11{
+    border-radius: 20px;
+}
+.project1-12{
+    background-color: rgb(236, 112, 178, 0.8);
+    width: 300px;
+    border-radius: 20px;
+    height: 320px;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.project1-12 a{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.project1-12 p{
+    margin-left: 20px;
+}
+.project1-12 h4{
+    margin-left: 20px;
+}
+.project1image12{
+    border-radius: 20px;
+}
+.project1-13{
+    background-color: rgb(236, 112, 178, 0.8);
+    width: 300px;
+    border-radius: 20px;
+    height: 320px;
+    margin-left: 500px;
+    margin-top: -320px;
+}
+.project1-13 a{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.project1-13 p{
+    margin-left: 20px;
+}
+.project1-13 h4{
+    margin-left: 20px;
+}
+.project1image13{
+    border-radius: 20px;
+}
+.project1-14{
+    background-color: rgb(236, 112, 178, 0.8);
+    width: 300px;
+    border-radius: 20px;
+    height: 320px;
+    margin-left: 950px;
+    margin-top: -320px;
+}
+.project1-14 a{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.project1-14 p{
+    margin-left: 20px;
+}
+.project1-14 h4{
+    margin-left: 20px;
+}
+.project1image14{
+    border-radius: 20px;
 }
